@@ -1,0 +1,21 @@
+.cell{
+ width: 1em;
+ height: 1em;
+ display: inline-block;
+ border: solid 1px black;    
+}
+
+.color-palette{
+    display: flex;
+}
+
+.brush{
+    width: 2em;
+    height: 2em;
+    border-radius: 100%;
+    border: solid 1px black;
+}
+
+.wrapper{
+    max-width: 12em;
+}
